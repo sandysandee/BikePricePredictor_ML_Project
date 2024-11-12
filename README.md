@@ -5,7 +5,7 @@ Key Features
 Data Collection: Leveraged web scraping techniques using requests and BeautifulSoup to collect comprehensive data on Kawasaki bikes from Bikewale.
 Data Cleaning and Preprocessing: Processed and refined raw data into an analyzable format using Python libraries, primarily Pandas and NumPy.
 Exploratory Data Analysis (EDA): Employed Matplotlib and Seaborn to visualize and explore data trends, correlations, and patterns essential for feature engineering.
-Machine Learning Model: Developed and trained a logistic regression model achieving 91.3% accuracy, with the model serialized using Pickle for deployment purposes.
+Machine Learning Model: Developed and trained a logistic regression model achieving 95.65% accuracy, with the model serialized using Pickle for deployment purposes.
 Tools and Libraries:
 Python Version: 3.10.9
 Libraries: requests, BeautifulSoup, Pandas, NumPy, Matplotlib, Seaborn, Dataprep, sklearn (for Logistic Regression), and Pickle.
@@ -29,7 +29,7 @@ Execution
 Open scratch.ipynb in Jupyter Notebook.
 Execute each cell sequentially to replicate the data collection, analysis, and modeling workflow.
 Results and Performance
-The logistic regression model achieved an accuracy of 91.3%, indicating effective feature engineering and model tuning. The final model is designed for potential future integration into a production environment.
+The logistic regression model achieved an accuracy of 95.65%, indicating effective feature engineering and model tuning. The final model is designed for potential future integration into a production environment.
 
 Contact Information
 For any questions or further discussion, please reach out:
